@@ -1,4 +1,3 @@
-# Sales Analysis Using MySQL
 # ${\color{red} Sales\ Analysis\ using\ MySQL}$
 # 🎯 Objective
 - To analyze sales data and extract meaningful business insights using SQL queries on a simulated sales dataset.
